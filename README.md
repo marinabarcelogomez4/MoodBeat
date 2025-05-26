@@ -147,7 +147,7 @@ cd ../frontend
 ![Historial](./frontend/img/docuImgs/MongoDBUsers.png)
 
 ### MongoDB Historial
-![Historial](./frontend/img/docuImgs/MongoDBHistorial.png)
+![Historial](./frontend/img/docuImgs/MongoDBHistories.png)
 
 
 
