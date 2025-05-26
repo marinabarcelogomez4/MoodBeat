@@ -15,7 +15,8 @@
 
 ## 🌐 Demo
 
-> *video Demo*
+[🎥 Ver video demo](./videoDemo/Demo.mp4)
+
 
 ---
 
@@ -39,6 +40,7 @@ MoodBeat-Assistant/
 ├── backend-node/        # API REST con Node.js (usuarios, historial, recomendaciones)
 ├── backend-flask/       # API Flask (detección de emociones desde texto)
 ├── frontend/            # HTML + CSS + JS puro para la interfaz
+├── videoDemo/           # VideoDemo
 ├── README.md            # Este archivo
 └── .env.example         # Variables de entorno de ejemplo
 ```
