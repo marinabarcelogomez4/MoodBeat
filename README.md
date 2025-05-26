@@ -80,7 +80,7 @@ cd MoodBeat-Assistant
 ```bash
 cd backend-node
 npm install
-npm run dev
+node app.js
 ```
 
 Esto levanta el servidor Node en `http://localhost:3000`.
@@ -120,11 +120,35 @@ cd ../frontend
 
 ---
 
-## 💡 Ideas Futuras
+## 🖼️ Capturas de Pantalla
 
-* Integrar generación de música con IA (por ejemplo, Suno.ai)
-* Soporte para voz (speech-to-text)
-* Recomendaciones de podcasts
-* Modo oscuro
+### Página de Login
+![Login](./frontend/img/docuImgs/InicioSesion.png)
+
+### Registro de Usuario
+![Registro](./frontend/img/docuImgs/Registro.png)
+
+### Página Principal
+![Home](./frontend/img/docuImgs/Interfaz.png)
+
+### Historial de Emociones
+![Historial](./frontend/img/docuImgs/interfazHistorial.png)
+
+### Recomendaciones
+![Historial](./frontend/img/docuImgs/Recomendacion.png)
+
+### Recomendacion Spotify
+![Historial](./frontend/img/docuImgs/RecomendacionSpotify.png)
+
+### MongoDB
+![Historial](./frontend/img/docuImgs/MongoDB.png)
+
+### MongoDB Users
+![Historial](./frontend/img/docuImgs/MongoDBUsers.png)
+
+### MongoDB Historial
+![Historial](./frontend/img/docuImgs/MongoDBHistorial.png)
+
+
 
 
