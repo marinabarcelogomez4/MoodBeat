@@ -1,8 +1,3 @@
-Aquí tienes un **README.md completo y profesional** para tu proyecto, basado en toda la arquitectura que has descrito:
-
----
-
-```markdown
 # 🎧 MoodBeat
 
 **MoodBeat** es una aplicación web que analiza el estado emocional del usuario a partir de un texto en español y le recomienda playlists de Spotify adecuadas a su emoción. Combina procesamiento de lenguaje natural (NLP), autenticación JWT, una API backend en Node.js y un microservicio en Python con modelos de HuggingFace.
